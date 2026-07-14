@@ -2,7 +2,7 @@
 
 > A dual-lane, rate-bounded, saturation-aware method for deciding when pre-deployment evaluation has produced enough evidence to support a release.
 
-**Paper:** [Stopping Rules for AI Deployment Evaluation](./paper.pdf)  
+**Paper:** [Stopping Rules for AI Deployment Evaluation](.Toward_Transparent_Stopping_Rules_for_AI_Deployment_Evaluation_A_Dual_Lane_Rate_Bounded_and_Saturation_Aware_Method.pdf)  
 **Status:** Research prototype and technical reference, not an implementation guide.
 
 ## Why this exists
