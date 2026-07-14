@@ -4,7 +4,7 @@
 
 **Paper:** [Toward Transparent Stopping Rules for AI Deployment Evaluation: A Dual-Lane, Rate-Bounded, and Saturation-Aware Method](./Toward_Transparent_Stopping_Rules_for_AI_Deployment_Evaluation_A_Dual_Lane_Rate_Bounded_and_Saturation_Aware_Method.pdf)
 
-**Status:** Research prototype and technical reference, not an implementation guide. If you are government and want the implementation guide, contact me. 
+**Status:** Research prototype and technical reference, not an implementation guide. Contact me for the implementation guide. 
 
 ## Why this exists
 
